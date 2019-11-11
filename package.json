@@ -1,0 +1,30 @@
+{
+  "name": "nicepay-id",
+  "version": "1.0.0",
+  "description": "module for nicepay payment.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://egg-@github.com/egg-/nicepay-id.git"
+  },
+  "author": "i@egg.pe.kr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/egg-/nicepay-id/issues"
+  },
+  "homepage": "https://github.com/egg-/nicepay-id#readme",
+  "keywords": [
+    "nicepay"
+  ],
+  "dependencies": {
+    "handlebars": "^4.1.2",
+    "request": "^2.88.0",
+    "sha256": "^0.2.0"
+  }
+}
