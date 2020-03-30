@@ -1,6 +1,6 @@
 {
   "name": "nicepay-id",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "module for nicepay payment.",
   "main": "index.js",
   "directories": {
@@ -23,6 +23,7 @@
     "nicepay"
   ],
   "dependencies": {
+    "moment": "^2.24.0",
     "request": "^2.88.2",
     "sha256": "^0.2.0"
   }
